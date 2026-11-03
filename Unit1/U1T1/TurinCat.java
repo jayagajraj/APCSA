@@ -1,4 +1,4 @@
-package APCSA;
+package U1T1;
 
 public class TurinCat {
     public static void main(String[] args) {

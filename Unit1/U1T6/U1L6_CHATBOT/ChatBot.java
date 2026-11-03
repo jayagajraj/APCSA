@@ -1,3 +1,4 @@
+package Unit1.U1T6.U1L6_CHATBOT;
 public class ChatBot {
 
    // instance variables

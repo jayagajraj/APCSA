@@ -1,3 +1,4 @@
+package U1T6;
 public class StudentRunner {
     public static void main(String[] args) {
         Student student1 = new Student("Alice", 16, 3.8);

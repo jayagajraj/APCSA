@@ -1,4 +1,4 @@
-package APCSA;
+package U1T1;
 // Jaya Gajraj
 //This class is a freestyle with bits of random code
 public class FreestyleU1TI {

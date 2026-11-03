@@ -1,4 +1,4 @@
-package APCSA;
+package U1T1;
 public class mathematicaloperators {
 public static void main(String[] args) {
     int x = 5;

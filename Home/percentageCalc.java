@@ -13,13 +13,6 @@ public class percentageCalc {
 
 
 
-        int num1 = 3;
-        int num2 = 4;
-        //implement code here
-        int ad = num1 + num2;
-        double div = ad/2;
-        int avg = (int) (div + .5);
-        System.out.print(avg);
     }
 
 

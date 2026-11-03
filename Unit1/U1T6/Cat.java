@@ -1,3 +1,4 @@
+package Unit1.U1T6;
 // Cat class definition
 public class Cat {
 

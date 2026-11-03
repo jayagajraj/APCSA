@@ -1,4 +1,4 @@
-package APCSA;
+package U1T1;
 import java.util.Scanner;
 
 public class Debugging {
@@ -19,4 +19,4 @@ public class Debugging {
     scan.close();
   }
 }
-[
+

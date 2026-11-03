@@ -1,3 +1,4 @@
+package U1T6;
 
 // Rectangle class definition
 public class Rectangle {

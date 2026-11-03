@@ -1,4 +1,5 @@
-package U1T6_Return;
+package Unit1.U1T6.U1T6_Return;
+
 // Rectangle class definition
 public class Rectangle {
 

@@ -1,3 +1,4 @@
+package U1T6;
 public class Student {
     private String name;
     private int age;
