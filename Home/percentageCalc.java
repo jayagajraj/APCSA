@@ -1,29 +1,34 @@
 package Home;
-import java.util.Scanner;
+//import java.util.Scanner;
 public class percentageCalc {
-    public static void main(String[] args) {
-        Scanner scan = new Scanner(System.in);
-        System.out.print("Enter original value: ");
-        double originalValue = scan.nextDouble();
-        System.out.print("Enter change: ");
-        double change = scan.nextDouble();
-        double almostpercent = (change * originalValue);
-        double percent = almostpercent / 100;
-        System.out.println("The percentage change is: " + percent + "%");
+  //  public static void main(String[] args) {
+   //     Scanner scan = new Scanner(System.in);
+   //     System.out.print("Enter original value: ");
+   //     double originalValue = scan.nextDouble();
+   //     System.out.print("Enter change: ");
+   //     double change = scan.nextDouble();
+   //     double almostpercent = (change * originalValue);
+    //    double percent = almostpercent / 100;
+  
 
 
 
-
-
-
-
-
-
-
-
-
-        scan.close();
-
-
+        int num1 = 3;
+        int num2 = 4;
+        //implement code here
+        int ad = num1 + num2;
+        double div = ad/2;
+        int avg = (int) (div + .5);
+        System.out.print(avg);
     }
-}
+
+
+
+
+
+
+
+
+
+    
+
