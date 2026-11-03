@@ -6,6 +6,6 @@ public class mains {
   double r = (int) (Math.random() * 36) + 50;
   System.out.println(r);
 }
-
+//hello me name sherry
     }
 }
